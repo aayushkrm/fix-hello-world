@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "It compiles",
+      "setup": "",
+      "run": "gcc fix_me_helloworld.c",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
